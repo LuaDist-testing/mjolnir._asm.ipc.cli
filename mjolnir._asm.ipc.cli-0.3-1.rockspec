@@ -10,7 +10,7 @@ package = "mjolnir._asm.ipc.cli"
 --    changing the module's source code.
 --
 --    Note: the version must match the version in the filename.
-version = "0.2-1"
+version = "0.3-1"
 
 -- General metadata:
 
@@ -19,7 +19,7 @@ local desc = "Mjolnir command line interface"
 
 -- LuaDist source
 source = {
-  tag = "0.2-1",
+  tag = "0.3-1",
   url = "git://github.com/LuaDist-testing/mjolnir._asm.ipc.cli.git"
 }
 -- Original source
